@@ -1,3 +1,5 @@
+![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/dnsgoogle/main/icon.jpg)
+
 # dnsgoogle
 Cambia los DNS de Windows con un archivo Batch
 
